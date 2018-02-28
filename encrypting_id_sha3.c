@@ -1,4 +1,4 @@
-/* Encrypting CAN identifiers with SHA3 KECCACK algorithm. */
+/* Encrypting CAN identifiers with SHA3 KECCAK algorithm. */
 
 		       	 // _____________________________________________________________________
 /* Sending an id encrypted | (Id of sender) (Counter (sender,receiver) ) | Code(sender,receiver) |
