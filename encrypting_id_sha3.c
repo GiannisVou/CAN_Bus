@@ -1,3 +1,10 @@
+/* Encrypting CAN identifiers with SHA3 KECCACK algorithm. */
+
+		       	 // _____________________________________________________________________
+/* Sending an id encrypted | (Id of sender) (Counter (sender,receiver) ) | Code(sender,receiver) |
+ 			   | ____________________________________________________________________| */
+
+//CODE for single file SHA3 Andrey Jivsov, crypto@brainhub.org
 /* -------------------------------------------------------------------------
  * Works when compiled for either 32-bit or 64-bit targets, optimized for
  * 64 bit.
