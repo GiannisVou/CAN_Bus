@@ -1,2 +1,2 @@
 all:
-	gcc main.c -lpthread -lrt
+	gcc Multicast_Authentication.c -lpthread -lrt
